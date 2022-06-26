@@ -6359,7 +6359,6 @@ Author : ${anu.author.name}
 Channel : ${anu.author.url}
 Description : ${anu.description}
 Url : ${anu.url}`,
-👾👾👾👾
                     footer: `${botname}`,
                     buttons: buttons,
                     headerType: 4
