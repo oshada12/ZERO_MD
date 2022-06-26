@@ -48,7 +48,7 @@ global.socialm = "https://github.com/zero7v" //ur github or insta name
 global.location = "Sri Lanka" //ur location
 
 //bot bombdy
-global.botname = "ur bot name" //ur bot name
+global.botname = "V I M U K T H I" //ur bot name
 global.websitex = "oshada.ga" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "Vimukthi Oshada"
