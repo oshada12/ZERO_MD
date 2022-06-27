@@ -10,8 +10,10 @@ RUN apt-get update && \
 
 COPY package.json .
 
-RUN npm install
+RUN npm install && npm install qrcode-terminal && npm install pm2 -g && pm2 start index.js && pm2 log
 
 COPY . .
 
-CMD ["node", "."]
+EXPOSE 5000
+
+CMD ["node", "index.js"]
